@@ -15,7 +15,7 @@ const Breadcrumbs = () => {
         href="https://quickgold.es/casa-cambio-malaga/"
         title="Ir a casa cambio malaga"
       >
-        Casa Cambio malaga
+        Casa Cambio Málaga
       </a>
     </div>
   );
