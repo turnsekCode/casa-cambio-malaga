@@ -8,26 +8,23 @@ const SectionCuatro = () => {
       <div className={styles.bloqueIzq}>
         <h2>
           Cambia moneda extranjera en {""}
-          <span className={styles.linea}>Barcelona</span>
+          <span className={styles.linea}>Málaga</span>
         </h2>
         <p>
-          En las oficinas de cambio de divisa quickgold en Barcelona puedes
-          cambiar dólares a euros en tan solo unos minutos. Recuerda llevar el
-          dinero que necesitas cambiar y, al instante, recibirás la moneda
-          extranjera que necesites en efectivo. Además, ofrecemos mejoras en la
-          tasa de cambio por cantidad, por lo tanto siempre estamos dispuesto a
-          escuchar tus necesidades para ofrecerte el mejor tipo de cambio de la
-          ciudad de Barcelona. Olvídate de cambiar divisa en el aeropuerto o en
-          el banco, en quickgold ofrecemos las mejores condiciones y ponemos a
-          tu disposición diferentes casas de cambio para estar siempre cerca de
-          ti.
+          ¿Necesitas cambiar divisa en Málaga? En Quickgold tenemos 3 oficinas
+          de cambio de divisa muy cerca de ti. Ya sea que vives en la ciudad o
+          estás de vacaciones dándote un baño en la playa de la Malagueta, ahora
+          puedes cambiar moneda extranjera sin comisiones. En quickgold tenemos
+          más de 30 monedas disponibles, desde dólares a libras pasando por
+          dirhams o reales. No hace falta que compares, en nuestras casas de
+          cambio tenemos el mejor tipo de cambio de toda la ciudad de Málaga.
         </p>
       </div>
       <div className={styles.bloqueDer}>
         <img
           loading="lazy"
-          src="/casa-cambio-barcelona.webp"
-          alt="Cambiar Dólares a Euros Barcelona"
+          src="/casa-cambio-malaga.webp"
+          alt="Cambiar Dólares a Euros Málaga"
           className={styles.Image}
           width={480}
           height={390}

@@ -8,12 +8,13 @@ const SectionTres = () => {
         <div className={styles.bloqueIzq}>
           <h2>
             ¿Necesitas una oficina de cambio en
-            <span className={styles.linea}> Barcelona?</span>
+            <span className={styles.linea}> Málaga?</span>
           </h2>
           <p>
             <span>
-              En Quickgold tenemos actualmente 3 casas de cambio para que puedas
-              cambiar moneda extrajera fácil y rápido.
+              Visita cualquiera de nuestras 3 casas de cambio de divisas en
+              Málaga y cambia cualquier divisa por euros sin comisiones y al
+              instante. Consigue el mejor tipo de cambio de Málaga.{" "}
             </span>
             Tenemos más de 30 divisas disponibles para ofrecerte el mejor
             servicio.
@@ -22,14 +23,14 @@ const SectionTres = () => {
         <div className={styles.bloqueDer}>
           <h2>¿Cómo cambiar divisa?</h2>
           <p>
-            Acude a tu casa de cambio quickgold más cercana, indícanos la moneda
-            extranjera que quieres cambiar y recibe el dinero en efectivo al
-            instante.
+            Ven a nuestra tienda Money Exchange más cercana en Málaga, indícanos
+            la divisa que quieres cambiar y te damos el dinero en efectivo y con
+            el mejor tipo de cambio. Cambia divisa sin comisiones en Quickgold.
           </p>
         </div>
       </div>
       <h1>
-        Cambiar divisa en <span className={styles.linea}>Barcelona</span> es muy
+        Cambiar divisa en <span className={styles.linea}>Málaga</span> es muy
         fácil
       </h1>
       <div className={styles.contenedorInfoTres}>
