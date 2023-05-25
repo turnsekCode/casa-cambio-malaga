@@ -11,7 +11,7 @@ const Section_uno = () => {
     <section className={styles.contenedorSectionUno}>
       <div className={styles.bloqueIzq}>
         <h1>
-          Casas de cambio en <span className={styles.linea}>Málaga</span>
+          Casas de cambio <span className={styles.linea}>Málaga</span>
         </h1>
         <p>
           En Quickgold tenemos más de 30 monedas para cambiar moneda extranjera.
