@@ -1396,14 +1396,14 @@ const Section_uno = ()=>{
             /*#__PURE__*/ jsx_runtime_.jsx("div", {
                 className: (section_uno_module_default()).bloqueDer,
                 children: width <= 610 ? /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                    src: "/malaga_mobil.webp",
-                    alt: "Casas de cambio malaga",
+                    src: "/divisa-mobil.webp",
+                    alt: "Casas de cambio Malaga",
                     className: (section_uno_module_default()).madridMobil,
                     width: 290,
                     height: 220
                 }) : /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                    src: "/malaga.webp",
-                    alt: "Casas de cambio malaga",
+                    src: "/divisa.webp",
+                    alt: "Casas de cambio Malaga",
                     className: (section_uno_module_default()).vector,
                     width: 480,
                     height: 364
